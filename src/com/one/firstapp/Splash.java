@@ -29,7 +29,7 @@ public class Splash extends Activity{
 				}
 				finally
 				{
-					Intent openMain = new Intent(Splash.this, Main.class);
+					Intent openMain = new Intent(Splash.this, Menu.class);
 					startActivity(openMain);
 					finish();
 				}	
