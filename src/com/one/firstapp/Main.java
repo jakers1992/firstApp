@@ -14,6 +14,7 @@ public class Main extends Activity {
 	int counter;
 	Button add, sub;
 	TextView display;
+	TextView test;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
